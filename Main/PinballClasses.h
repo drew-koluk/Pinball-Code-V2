@@ -6,5 +6,6 @@
 #include "DropTarget.h"
 #include "SolenoidController.h"
 #include "BallTrough.h"
+#include "Highscores.h"
 
 #endif
